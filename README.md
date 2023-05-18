@@ -16,3 +16,10 @@ I have experience in software development with a focus on Python, JavaScript, an
    - [LinkedIn](https://www.linkedin.com/in/taynara-sene-632901a3)
 
 ⭐️ Follow me here on GitHub to keep up with my latest creations and technological madness. Enjoy!
+
+<p align="center">
+<a href="https://github.com/taynarasene">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taynarasene&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taynarasene&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
