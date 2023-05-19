@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taynarasene&label=Profile%20views&color=0e75b6&style=flat" alt="taynarasene" /> </p>
+
 # Taynara Sene
 
 👋 Hello, welcome to my GitHub profile! Here you will find an organized mess of code and crazy projects. Feel free to explore and have fun!
